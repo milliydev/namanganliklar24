@@ -743,10 +743,212 @@ nav .telegrambtn .b-text {
   top: 58px;
 }
 .container-xxl .grid-main-3 {
-  border: 1px solid red;
+  position: absolute;
+  width: 396px;
+  height: 600px;
+  left: 920px;
+  top: 600px;
+  display: grid;
+  grid-template-columns: 386px;
+  grid-template-rows: 150px 150px 150px 150px;
+  background-color: #F6F6F9;
+}
+.container-xxl .grid-main-3 .item-1 p {
+  width: 280px;
+  height: 26px;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 22px;
+}
+.container-xxl .grid-main-3 .item-1 h5 {
+  width: 347px;
+  height: 62px;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  top: 40px;
+  line-height: 20.15px;
+  font-family: sans-serif;
+  color: #202020;
+}
+.container-xxl .grid-main-3 .item-1 .date {
+  width: 117px;
+  height: 19px;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  color: #7688A4;
+  top: 110px;
+}
+.container-xxl .grid-main-3 .item-1 .line {
+  position: relative;
+  width: 346px;
+  height: 4px;
+  background-color: #E4E4E4;
+  display: flex;
+  left: 5%;
+  top: 140px;
+}
+.container-xxl .grid-main-3 .item-2 p {
+  width: 280px;
+  height: 26px;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  left: 22px;
+}
+.container-xxl .grid-main-3 .item-2 h5 {
+  width: 347px;
+  height: 62px;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  top: 190px;
+  line-height: 20.15px;
+  font-family: sans-serif;
+  color: #202020;
+}
+.container-xxl .grid-main-3 .item-2 .date {
+  width: 117px;
+  height: 19px;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  color: #7688A4;
+  top: 270px;
+}
+.container-xxl .grid-main-3 .item-2 .line {
+  position: relative;
+  width: 346px;
+  height: 4px;
+  background-color: #E4E4E4;
+  display: flex;
+  left: 5%;
+  top: 104px;
+}
+.container-xxl .grid-main-3 .item-3 p {
+  width: 280px;
+  height: 26px;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  left: 22px;
+}
+.container-xxl .grid-main-3 .item-3 h5 {
+  width: 347px;
+  height: 62px;
+  font-size: 17px;
+  font-weight: 400;
+  position: relative;
+  left: 22px;
+  line-height: 20.15px;
+  font-family: sans-serif;
+  color: #202020;
+}
+.container-xxl .grid-main-3 .item-3 .date {
+  width: 117px;
+  height: 19px;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  left: 22px;
+  color: #7688A4;
+}
+.container-xxl .grid-main-3 .item-3 .line {
+  position: relative;
+  width: 346px;
+  height: 4px;
+  background-color: #E4E4E4;
+  display: flex;
+  left: 5%;
+  top: 10px;
+}
+.container-xxl .grid-main-3 .item-2 p {
+  width: 280px;
+  height: 26px;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  left: 22px;
+}
+.container-xxl .grid-main-3 .item-2 h5 {
+  width: 347px;
+  height: 62px;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  top: 190px;
+  line-height: 20.15px;
+  font-family: sans-serif;
+  color: #202020;
+}
+.container-xxl .grid-main-3 .item-2 .date {
+  width: 117px;
+  height: 19px;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  color: #7688A4;
+  top: 270px;
+}
+.container-xxl .grid-main-3 .item-2 .line {
+  position: relative;
+  width: 346px;
+  height: 4px;
+  background-color: #E4E4E4;
+  display: flex;
+  left: 5%;
+  top: 104px;
+}
+.container-xxl .grid-main-3 .item-4 p {
+  width: 280px;
+  height: 26px;
+  font-size: 20px;
+  font-weight: 500;
+  position: relative;
+  left: 22px;
+}
+.container-xxl .grid-main-3 .item-4 h5 {
+  width: 347px;
+  height: 62px;
+  font-size: 17px;
+  font-weight: 400;
+  position: relative;
+  left: 22px;
+  line-height: 20.15px;
+  font-family: sans-serif;
+  color: #202020;
+}
+.container-xxl .grid-main-3 .item-4 .date {
+  width: 117px;
+  height: 19px;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  left: 22px;
+  color: #7688A4;
+}
+.container-xxl .grid-main-3 .item-4 .line {
+  position: absolute;
+  width: 346px;
+  height: 4px;
+  background-color: #E4E4E4;
+  display: flex;
+  left: 5%;
+  top: 18px;
+}
+.container-xxl .rek-img {
   position: absolute;
   width: 386px;
-  height: 500px;
-  left: 937px;
-  top: 600px;
+  height: 477px;
+  left: 930px;
+  top: 1222px;
+  background-image: url("../img/Rectangle 41.png");
 }/*# sourceMappingURL=style.css.map */
